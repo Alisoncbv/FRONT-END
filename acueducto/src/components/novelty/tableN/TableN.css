@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container-tableN{
+    display: grid;
+    grid-template-columns: 32% 68%;
+}
+
+.container-optionsN{
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    font-size: 30px;
+    color: #05332E;
+}
+
+.buttonN{
+    background-color: #61E002;
+    border: 3px solid #61B800;
+    border-radius: 10px;
+    color: #05332E;
+    width: 165px;
+    height: 40px;
+    flex-shrink: 0; 
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.pFilter{
+    font-size: 20px;
+    margin: 22px 0 0 22px;
+    color: #05332E;
+}
+
+hr{
+    width: 94%;
+    margin: 22px 0 0 22px;
+    color: #05332E;
+}
+
+

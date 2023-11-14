@@ -1,0 +1,35 @@
+.container-footer{
+    display: flex;
+    background-color: #235390;
+    width: 100vw;
+    height: 120px;
+}
+
+.button-footer{
+    display: flex;
+    width: 70vw;
+    padding: 25px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button-footer a{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-color: #235390;
+    font-weight: 1000;
+    color: white;
+    border-radius: 10px;
+    border: #042856 3px solid;
+}
+
+.container-copyrigth{
+    display: flex;
+    justify-content: center;
+    background-color: #E3E4E5;
+}
+
+.container-contact{
+    display: flex;
+    justify-content: end;
+}

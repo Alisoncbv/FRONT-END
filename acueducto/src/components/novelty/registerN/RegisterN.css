@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container-RegisterN{
+    text-align: center;
+}
+
+.container-tipoN{
+    border: none;
+    border-bottom: 1px solid #042856;
+    width: 35%; 
+    margin: 10px;
+    font-family: imprima;
+    font-size: 20px;
+    color: #042856;
+    outline: none;
+}
+
+.titleLabel{
+    margin-right: 25%;
+    font-family: imprima;
+    font-size: 20px;
+    color: #042856;
+}
+
+.titleRN{
+    color: #235390;
+    margin: 5% 0 3% 0;
+}

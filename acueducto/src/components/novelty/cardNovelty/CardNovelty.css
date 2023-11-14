@@ -1,0 +1,21 @@
+.cardNovelty{
+    display: flex;
+    margin: 5% 0 0 3%;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #042856;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 2%;
+}
+
+.cardNovelty p{
+    font-size: 20px;
+    margin: 16px;
+}
+
+.icono{
+    margin-left: 11rem;
+    cursor: pointer;
+    color: #61E002;
+}

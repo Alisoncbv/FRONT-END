@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container-registerPO{
+    text-align: center;
+}
+
+.namePO{
+    margin: 5% 0% 3% 0%;
+    color: #235390;
+}
+
+.buttonsPO{
+    margin-left: 30%;
+    text-align: center;
+}

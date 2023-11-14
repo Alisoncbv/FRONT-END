@@ -1,0 +1,10 @@
+.input{
+    border: none;
+    border-bottom: 1px solid #042856;
+    outline: none;
+    width: 35%; 
+    font-family: imprima;
+    font-size: 20px;
+    color: #042856;
+    margin: 10px;
+}

@@ -1,0 +1,15 @@
+.container-cardPay{
+    display: flex;
+    margin: 5% 0 0 3%;
+    width: 250px;
+    height: 250px;
+    border: 2px solid #042856;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 2%;
+}
+
+.container-cardPay p{
+        font-size: 20px;
+        margin: 16px;
+}

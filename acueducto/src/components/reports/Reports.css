@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container-reports{
+    display: grid;
+    grid-template-columns: 32% 68%;
+    
+}
+
+.card-top{
+    margin-top: 8%;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.card-bottom{
+    margin-top: 4%;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 4%;
+}
+
+.cardR{
+    border: 2px solid #042856;
+    border-radius: 15px;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

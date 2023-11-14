@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.table-tableA{
+    border: 2px solid #235390;
+    border-radius: 5px;
+}
+
+td{
+    font-size: 16px;
+    color: #042856;
+}
+
+.container-tableA{
+    display: grid;
+    grid-template-columns: 32% 68%;
+}
+
+.container-optionsA{
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    font-size: 30px;
+    color: #05332E;
+}
+
+.buttonA{
+    background-color: #61E002;
+    border: 3px solid #61B800;
+    border-radius: 10px;
+    color: #05332E;
+    width: 165px;
+    height: 40px;
+    flex-shrink: 0; 
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.container-t{
+    display: flex;
+    padding: 3%;
+}
+
+.iconos{
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+    color: #05332E;
+}
